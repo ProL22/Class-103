@@ -1,0 +1,20 @@
+1-Login
+2-Donate/Request Books
+3-Request Book-
+  3-(i)Name of Book
+  3-(ii)Use of Book
+4-Donating Book-
+  4-(i) Search Bar
+  4-(ii) Accept the request
+  4-(iii) Text
+Program-i)Should Show Donater Types of request on The basis of their Donating History
+          (for eg. if He/she gave someone a Book like harry potter so he/she should see some book request like harry potter or some books which are nearly same)
+        ii)Should Help find the Person whi is requesting the book should see donaters on the basis of their requesting history 
+           (for eg. if He/She took a book from a donater like diary of winpy kid so he/she should see donators who would like to sell books like diary of the wimpy kid )
+
+5-Admin-
+  5-(i)Help the user to log/sign in or log out
+  5-(ii)Should Tell the donator to see the request related to books the donater want to sell (thorugh E-mails,Notifications etc.)
+  5-(iii)Should tell the user which requestd the book if someone accepted the request
+  5-(iV)Should update the users that how many people di transacion in whole day through notification.
+  5-(V)Should work Like AI which shows the request of the books which the donater would like to donate (on the basis of the user's donating history).
